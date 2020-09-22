@@ -3,7 +3,7 @@
     "$oid": "5e3705f1b29af385c20f6971"
   },
   "latest": {
-    "build": "1.0.0",
+    "build": "1.2.3",
     "id": 3089,
     "url": "https://dl.dropboxusercontent.com/s/1azf9de1rj294xk/Surasha-1.0.1.jar",
     "size": 30071063,
@@ -13,8 +13,43 @@
     "beta": false,
     "sha256": "caa45a4c63141063de19740459b5cc447dc7aa02fd0bc179959f4259693cba0b"
   },
+  "versions": [
+    {
+      "build": "1.2",
+      "id": 2732,
+      "url": "https://dl.dropboxusercontent.com/s/1azf9de1rj294xk/Surasha-1.0.1.jar",
+      "size": 29831239,
+      "target_installer": 3,
+      "sha1": "09312fbc0cdbb01b8cce7ea8b4e35deb10708c16",
+      "time": 1573231818808,
+      "beta": false,
+      "sha256": "e9ae5da6f74c2cffbd3a5085bb7c29c0c4fe89f35e4d87571eff01432dcb6e54"
+    },
+    {
+      "build": "1.2.2",
+      "id": 2776,
+      "url": "https://dl.dropboxusercontent.com/s/1azf9de1rj294xk/Surasha-1.0.1.jar",
+      "size": 30009153,
+      "target_installer": 3,
+      "sha1": "9c64236a2b3db0c2c92d3a94ef01ef533a520759",
+      "time": 1574023816679,
+      "beta": false,
+      "sha256": "d345c84cc4acf2db17ca9884fd54495a17b0f747a3ad9c4010996e9d84090c88"
+    },
+    {
+      "build": "1.2.3",
+      "id": 3089,
+      "url": "https://dl.dropboxusercontent.com/s/1azf9de1rj294xk/Surasha-1.0.1.jar",
+      "size": 30071063,
+      "target_installer": 3,
+      "sha1": "5f8d3ae9f06c1c6c8689fb60c6092d7585541857",
+      "time": 1588624981356,
+      "beta": false,
+      "sha256": "caa45a4c63141063de19740459b5cc447dc7aa02fd0bc179959f4259693cba0b"
+    }
+  ],
   "latest_beta": {
-    "build": "1.0.0",
+    "build": "1.2.3",
     "id": 3089,
     "url": "https://dl.dropboxusercontent.com/s/1azf9de1rj294xk/Surasha-1.0.1.jar",
     "size": 30071063,
