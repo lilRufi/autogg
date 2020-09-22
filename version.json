@@ -1,0 +1,29 @@
+{
+  "_id": {
+    "$oid": "5e3705f1b29af385c20f6971"
+  },
+  "latest": {
+    "build": "1.0.0",
+    "id": 3089,
+    "url": "https://static.sk1er.club/repo/cc/hyperium/Hyperium/3089/Hyperium-3089.jar",
+    "size": 30071063,
+    "target_installer": 3,
+    "sha1": "5f8d3ae9f06c1c6c8689fb60c6092d7585541857",
+    "time": 1588624981356,
+    "beta": false,
+    "sha256": "caa45a4c63141063de19740459b5cc447dc7aa02fd0bc179959f4259693cba0b"
+  },
+  "latest_beta": {
+    "build": "1.0.0",
+    "id": 3089,
+    "url": "https://static.sk1er.club/repo/cc/hyperium/Hyperium/3089/Hyperium-3089.jar",
+    "size": 30071063,
+    "target_installer": 3,
+    "sha1": "5f8d3ae9f06c1c6c8689fb60c6092d7585541857",
+    "time": 1588624981356,
+    "beta": false,
+    "sha256": "caa45a4c63141063de19740459b5cc447dc7aa02fd0bc179959f4259693cba0b"
+  },
+  "identifier": "hyperium_versions",
+  "_inserttime": 1588625587832
+}
